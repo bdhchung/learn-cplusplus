@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 using namespace std;
 
@@ -43,9 +44,9 @@ void Point::getPoint() {
     cout << "Point(x,y) = (" << x << "," << y << ")\n";
 }
 
-int main() {
+int week2_1() {
     Point p1 (10,10);
     Point p2;
     p2.setPoint();
     p2.getPoint();
-}
+}*/
